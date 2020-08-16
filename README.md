@@ -58,5 +58,8 @@ DeepDrid train images
 :-------------------------:|
 ![](https://github.com/Sandeep2017/Diabetic-Retinopathy-detection/blob/master/Images/1.PNG)
 
-### challenges
-
+### Challenges
+* The dataset has high class imbalance.
+* Images contain artifacts.
+* Images are out of focus, under/overexposed.
+* Lighting conditions are vastly different. 
