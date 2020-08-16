@@ -13,10 +13,10 @@ This is an ongoing project and this repository is constantly getting updated.
 * [Contributors](#Contributors)
 * [Introduction](#Introduction)
 * [Dataset Used](#Dataset-Used)
+* [Challenges](#Challenges)
 * [Augmentation & Preprocessing](#Augmentation-and-Preprocessing)
 * [Network Architecture](#Network-Architecture)
 * [Loss Function & Optimizer](#Loss-Function-and-Optimizer)
-* [Training setup](#Training-setup)
 * [Evaluation Metric](#Evaluation-Metric)
 * [Results](#Results)
 
@@ -32,6 +32,8 @@ Currently, detection DR is a time-consuming process that requires a trained clin
 Clinicians can identify DR by the presence of lesions associated with the vascular abnormalities caused by the disease. While this approach is effective, its resource demands are high. The expertise and equipment required are often lacking in areas where the rate of diabetes in local populations is high and DR detection is most needed. As the number of individuals with diabetes continues to grow, the infrastructure needed to prevent blindness due to DR will become even more insufficient.
 
 The need for a comprehensive and automated method of DR screening has long been recognized, and previous efforts have made good progress using image classification, pattern recognition, and machine learning. Here, we too are trying to develop a Convolutional Neural Network which can automate the process of DR detection.
+
+[Back to top](#Diabetic-Retinopathy-detection)
 
 ### Dataset Used:
 We have used multiple DR datasets that are publicly available.
@@ -64,6 +66,8 @@ DeepDrid train images
 * Images are out of focus, under/overexposed.
 * Lighting conditions are vastly different. 
 
+[Back to top](#Diabetic-Retinopathy-detection)
+
 ### Augmentation and preprocessing:
 The training data was augmented on the fly using the [Albumentations library](https://albumentations.ai/).
 A strong combination of different types of image augmentations were applied with varied probabilities. They were:
@@ -85,6 +89,8 @@ The final architecture will be updated soon !
 Weighted Categorical crossentropy is the loss function that we are using. Also we are trying class oversampling.
 Adam with default parameters is the optimizer of our choice.
 
+[Back to top](#Diabetic-Retinopathy-detection)
+
 ### Evaluation Metric:
 We are using Quadratic Weighted Kappa as our metric.
 
@@ -103,3 +109,5 @@ def tf_kappa(y_true, y_pred):
 
 ### Results
 Will be updated soon
+
+[Back to top](#Diabetic-Retinopathy-detection)
