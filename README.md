@@ -40,3 +40,9 @@ They are:
 * [Deep Drid](https://isbi.deepdr.org/)
 * [APTOS 2019 Blindness detection challenge](https://www.kaggle.com/c/aptos2019-blindness-detection)
 * [Kaggle 2015 DR detection challenge](https://www.kaggle.com/c/diabetic-retinopathy-detection)
+
+Sample training images from DeepDrid dataset:
+
+DeepDrid train images
+:-------------------------:|
+![](https://github.com/Sandeep2017/Diabetic-Retinopathy-detection/blob/master/Images/1.PNG)
