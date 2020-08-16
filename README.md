@@ -26,4 +26,5 @@ This project is created by the joint efforts of
 * [Sandeep Ghosh](https://github.com/Sandeep2017)
 
 ### Introduction
-
+Diabetic retinopathy is an eye condition that can cause vision loss and blindness in people who have diabetes if left untreated. It affects blood vessels in the retina. As reported, DR (Diabetic Retinopathy) is the leading cause of blindness in the working-age population of the developed world. 
+Currently, detection DR is a time-consuming process that requires a trained clinician to examine and evaluate digital colour fundas photographs of the retina. By the time human readers submit their reviews, often a day or two later, the delayed resuslts lead to lost follow up, miscommunication, and delayed treatment.
