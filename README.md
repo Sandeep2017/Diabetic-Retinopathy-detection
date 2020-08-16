@@ -41,8 +41,22 @@ They are:
 * [APTOS 2019 Blindness detection challenge](https://www.kaggle.com/c/aptos2019-blindness-detection)
 * [Kaggle 2015 DR detection challenge](https://www.kaggle.com/c/diabetic-retinopathy-detection)
 
+DR can be graded into 5 conditions:
+> 0 - No DR
+
+> 1 - Mild 
+
+> 2 - Moderate
+
+> 3 - Severe
+
+> 4 - Proliferative DR
+
 Sample training images from DeepDrid dataset:
 
 DeepDrid train images
 :-------------------------:|
 ![](https://github.com/Sandeep2017/Diabetic-Retinopathy-detection/blob/master/Images/1.PNG)
+
+### challenges
+
