@@ -24,6 +24,7 @@ This is an ongoing project and this repository is constantly getting updated.
 This project is created by the joint efforts of
 * [Subham Singh](https://github.com/Subham2901)
 * [Sandeep Ghosh](https://github.com/Sandeep2017)
+> keep coding :-)
 
 ### Introduction:
 Diabetic retinopathy is an eye condition that can cause vision loss and blindness in people who have diabetes if left untreated. It affects blood vessels in the retina. As reported, DR (Diabetic Retinopathy) is the leading cause of blindness in the working-age population of the developed world. 
