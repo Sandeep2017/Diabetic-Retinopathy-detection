@@ -4,8 +4,10 @@
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://linkedin.com/in/sandeep-ghosh)
 
+>> Imagine being able to detect blindness even before it happned  !!
+
 Our experiments with Diabetic Retinopathy Detection.
-This is an ongoing project and this repository is constantly updating.
+This is an ongoing project and this repository is constantly getting updated.
 
 ## Overview
 * [Contributors](#Contributors)
@@ -22,4 +24,6 @@ This is an ongoing project and this repository is constantly updating.
 This project is created by the joint efforts of
 * [Subham Singh](https://github.com/Subham2901)
 * [Sandeep Ghosh](https://github.com/Sandeep2017)
-> keep coding :-)
+
+### Introduction
+
