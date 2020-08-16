@@ -52,7 +52,7 @@ DR can be graded into 5 conditions:
 
 > 4 - Proliferative DR
 
-Sample training images from DeepDrid dataset:
+Sample training images from DeepDrid dataset along with their respective grades are given below:
 
 DeepDrid train images
 :-------------------------:|
